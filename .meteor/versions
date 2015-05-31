@@ -31,6 +31,7 @@ observe-sequence@1.0.6
 ordered-dict@1.0.3
 practicalmeteor:chai@2.1.0_1
 practicalmeteor:loglevel@1.2.0_1
+practicalmeteor:wkwebview@0.1.0
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5
@@ -47,4 +48,3 @@ underscore@1.0.3
 url@1.0.4
 webapp@1.2.0
 webapp-hashing@1.0.3
-wkwebview@0.1.0
