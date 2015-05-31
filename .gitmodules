@@ -1,0 +1,3 @@
+[submodule "packages/wkwebview"]
+	path = packages/wkwebview
+	url = git@github.com:practicalmeteor/meteor-wkwebview.git
